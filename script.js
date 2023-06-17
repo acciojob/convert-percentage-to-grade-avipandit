@@ -1,4 +1,4 @@
-ffunction calculateGrade(percentage) {
+function calculateGrade(percentage) {
   //your code here
 	if(percentage>=90){
 		return 'A';
